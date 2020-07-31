@@ -1,0 +1,17 @@
+body{
+    background-color:#a8d8ea;
+    box-sizing: border-box;
+}
+
+hr{
+    width : 5%;
+    border-style : dotted none none none ;
+    border-color:white ;
+    border-width:5px;
+}
+h3,h1{
+    color:#364f6b;
+}
+td{
+    padding:5px;
+}

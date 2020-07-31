@@ -1,0 +1,18 @@
+div{
+    height:200px;
+    width:200px;
+}
+#top{
+    background-color: red;
+    border:10px solid black;
+}
+#middle{
+    background-color: blue;
+    border:20px solid black;
+    margin-left: 220px;
+}
+#bottom{
+    background-color:yellow;
+    border:30px solid black;
+    margin-left:460px;
+}
